@@ -1,0 +1,8 @@
+MD Automotivo / AutoGest Pro - protótipo
+index.html   = página inicial pública (usa img/panfleto.png)
+painel.html  = login e painel de gestão (página separada)
+css/ js/ img/
+Abra index.html no navegador. O botão "Acesso à gestão" leva ao painel.
+Logins demo: admin@autogest.com / admin123 (Administrador) | atendente@autogest.com / atendente123 (Atendente)
+Informações do site são editadas no painel (Site da Oficina) e salvas no localStorage do navegador.
+Protótipo: sem segurança real.
