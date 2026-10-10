@@ -1,0 +1,4 @@
+AutoGest Pro - protótipo
+Abra index.html no navegador (duplo clique).
+Estrutura: index.html | css/style.css | js/app.js
+Dados salvos no localStorage do navegador. Login apenas visual (sem segurança real).
